@@ -1,0 +1,55 @@
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\IncomeExpense Tracking.exe
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\IncomeExpense Tracking.deps.json
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\IncomeExpense Tracking.runtimeconfig.json
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\IncomeExpense Tracking.dll
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\IncomeExpense Tracking.pdb
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense_Tracking.Form1.resources
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.csproj.GenerateResource.cache
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.AssemblyInfoInputs.cache
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.AssemblyInfo.cs
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.csproj.CoreCompileInputs.cache
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.dll
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\refint\IncomeExpense Tracking.dll
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.pdb
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.genruntimeconfig.cache
+C:\Users\Shannel\source\repos\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\ref\IncomeExpense Tracking.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\IncomeExpense Tracking.exe
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\IncomeExpense Tracking.deps.json
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\IncomeExpense Tracking.runtimeconfig.json
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\IncomeExpense Tracking.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\IncomeExpense Tracking.pdb
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense_Tracking.Form1.resources
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.csproj.GenerateResource.cache
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.AssemblyInfoInputs.cache
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.AssemblyInfo.cs
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.csproj.CoreCompileInputs.cache
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\refint\IncomeExpense Tracking.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.pdb
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.genruntimeconfig.cache
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\ref\IncomeExpense Tracking.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeExpense Tracking.csproj.AssemblyReference.cache
+C:\Users\Shannel\Downloads\school\Projects\EDP\WRSMS\Admin\IncomeExpense Tracking\IncomeExpense Tracking\obj\Debug\net8.0-windows\IncomeEx.60BA0A4F.Up2Date
