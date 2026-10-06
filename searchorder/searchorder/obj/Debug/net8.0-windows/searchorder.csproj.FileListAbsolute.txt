@@ -1,0 +1,16 @@
+C:\Users\Shannel\source\repos\searchorder\searchorder\bin\Debug\net8.0-windows\searchorder.exe
+C:\Users\Shannel\source\repos\searchorder\searchorder\bin\Debug\net8.0-windows\searchorder.deps.json
+C:\Users\Shannel\source\repos\searchorder\searchorder\bin\Debug\net8.0-windows\searchorder.runtimeconfig.json
+C:\Users\Shannel\source\repos\searchorder\searchorder\bin\Debug\net8.0-windows\searchorder.dll
+C:\Users\Shannel\source\repos\searchorder\searchorder\bin\Debug\net8.0-windows\searchorder.pdb
+C:\Users\Shannel\source\repos\searchorder\searchorder\obj\Debug\net8.0-windows\searchorder.Form1.resources
+C:\Users\Shannel\source\repos\searchorder\searchorder\obj\Debug\net8.0-windows\searchorder.csproj.GenerateResource.cache
+C:\Users\Shannel\source\repos\searchorder\searchorder\obj\Debug\net8.0-windows\searchorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shannel\source\repos\searchorder\searchorder\obj\Debug\net8.0-windows\searchorder.AssemblyInfoInputs.cache
+C:\Users\Shannel\source\repos\searchorder\searchorder\obj\Debug\net8.0-windows\searchorder.AssemblyInfo.cs
+C:\Users\Shannel\source\repos\searchorder\searchorder\obj\Debug\net8.0-windows\searchorder.csproj.CoreCompileInputs.cache
+C:\Users\Shannel\source\repos\searchorder\searchorder\obj\Debug\net8.0-windows\searchorder.dll
+C:\Users\Shannel\source\repos\searchorder\searchorder\obj\Debug\net8.0-windows\refint\searchorder.dll
+C:\Users\Shannel\source\repos\searchorder\searchorder\obj\Debug\net8.0-windows\searchorder.pdb
+C:\Users\Shannel\source\repos\searchorder\searchorder\obj\Debug\net8.0-windows\searchorder.genruntimeconfig.cache
+C:\Users\Shannel\source\repos\searchorder\searchorder\obj\Debug\net8.0-windows\ref\searchorder.dll

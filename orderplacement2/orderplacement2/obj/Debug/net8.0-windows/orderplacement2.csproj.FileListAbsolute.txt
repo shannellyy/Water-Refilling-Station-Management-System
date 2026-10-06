@@ -1,0 +1,16 @@
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\bin\Debug\net8.0-windows\orderplacement2.exe
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\bin\Debug\net8.0-windows\orderplacement2.deps.json
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\bin\Debug\net8.0-windows\orderplacement2.runtimeconfig.json
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\bin\Debug\net8.0-windows\orderplacement2.dll
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\bin\Debug\net8.0-windows\orderplacement2.pdb
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\obj\Debug\net8.0-windows\orderplacement2.Form1.resources
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\obj\Debug\net8.0-windows\orderplacement2.csproj.GenerateResource.cache
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\obj\Debug\net8.0-windows\orderplacement2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\obj\Debug\net8.0-windows\orderplacement2.AssemblyInfoInputs.cache
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\obj\Debug\net8.0-windows\orderplacement2.AssemblyInfo.cs
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\obj\Debug\net8.0-windows\orderplacement2.csproj.CoreCompileInputs.cache
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\obj\Debug\net8.0-windows\orderplacement2.dll
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\obj\Debug\net8.0-windows\refint\orderplacement2.dll
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\obj\Debug\net8.0-windows\orderplacement2.pdb
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\obj\Debug\net8.0-windows\orderplacement2.genruntimeconfig.cache
+C:\Users\Shannel\source\repos\orderplacement2\orderplacement2\obj\Debug\net8.0-windows\ref\orderplacement2.dll
