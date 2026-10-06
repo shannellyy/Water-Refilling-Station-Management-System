@@ -1,0 +1,16 @@
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\bin\Debug\net8.0-windows\Payment Credit Tab Management.exe
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\bin\Debug\net8.0-windows\Payment Credit Tab Management.deps.json
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\bin\Debug\net8.0-windows\Payment Credit Tab Management.runtimeconfig.json
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\bin\Debug\net8.0-windows\Payment Credit Tab Management.dll
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\bin\Debug\net8.0-windows\Payment Credit Tab Management.pdb
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\obj\Debug\net8.0-windows\Payment_Credit_Tab_Management.Form1.resources
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\obj\Debug\net8.0-windows\Payment Credit Tab Management.csproj.GenerateResource.cache
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\obj\Debug\net8.0-windows\Payment Credit Tab Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\obj\Debug\net8.0-windows\Payment Credit Tab Management.AssemblyInfoInputs.cache
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\obj\Debug\net8.0-windows\Payment Credit Tab Management.AssemblyInfo.cs
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\obj\Debug\net8.0-windows\Payment Credit Tab Management.csproj.CoreCompileInputs.cache
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\obj\Debug\net8.0-windows\Payment Credit Tab Management.dll
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\obj\Debug\net8.0-windows\refint\Payment Credit Tab Management.dll
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\obj\Debug\net8.0-windows\Payment Credit Tab Management.pdb
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\obj\Debug\net8.0-windows\Payment Credit Tab Management.genruntimeconfig.cache
+C:\Users\Shannel\source\repos\Payment Credit Tab Management\Payment Credit Tab Management\obj\Debug\net8.0-windows\ref\Payment Credit Tab Management.dll
