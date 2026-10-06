@@ -1,0 +1,16 @@
+C:\Users\Shannel\source\repos\Order Management\Order Management\bin\Debug\net8.0-windows\Order Management.exe
+C:\Users\Shannel\source\repos\Order Management\Order Management\bin\Debug\net8.0-windows\Order Management.deps.json
+C:\Users\Shannel\source\repos\Order Management\Order Management\bin\Debug\net8.0-windows\Order Management.runtimeconfig.json
+C:\Users\Shannel\source\repos\Order Management\Order Management\bin\Debug\net8.0-windows\Order Management.dll
+C:\Users\Shannel\source\repos\Order Management\Order Management\bin\Debug\net8.0-windows\Order Management.pdb
+C:\Users\Shannel\source\repos\Order Management\Order Management\obj\Debug\net8.0-windows\Order_Management.Form1.resources
+C:\Users\Shannel\source\repos\Order Management\Order Management\obj\Debug\net8.0-windows\Order Management.csproj.GenerateResource.cache
+C:\Users\Shannel\source\repos\Order Management\Order Management\obj\Debug\net8.0-windows\Order Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shannel\source\repos\Order Management\Order Management\obj\Debug\net8.0-windows\Order Management.AssemblyInfoInputs.cache
+C:\Users\Shannel\source\repos\Order Management\Order Management\obj\Debug\net8.0-windows\Order Management.AssemblyInfo.cs
+C:\Users\Shannel\source\repos\Order Management\Order Management\obj\Debug\net8.0-windows\Order Management.csproj.CoreCompileInputs.cache
+C:\Users\Shannel\source\repos\Order Management\Order Management\obj\Debug\net8.0-windows\Order Management.dll
+C:\Users\Shannel\source\repos\Order Management\Order Management\obj\Debug\net8.0-windows\refint\Order Management.dll
+C:\Users\Shannel\source\repos\Order Management\Order Management\obj\Debug\net8.0-windows\Order Management.pdb
+C:\Users\Shannel\source\repos\Order Management\Order Management\obj\Debug\net8.0-windows\Order Management.genruntimeconfig.cache
+C:\Users\Shannel\source\repos\Order Management\Order Management\obj\Debug\net8.0-windows\ref\Order Management.dll

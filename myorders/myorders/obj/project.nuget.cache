@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z5RXGWG60DU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shannel\\Downloads\\SKOLL\\Projects\\EDP\\WRSMS\\Customer\\myorders\\myorders\\myorders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shannel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Shannel\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Shannel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Shannel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
