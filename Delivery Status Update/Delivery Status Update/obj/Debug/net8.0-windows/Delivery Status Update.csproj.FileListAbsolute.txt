@@ -1,0 +1,16 @@
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\bin\Debug\net8.0-windows\Delivery Status Update.exe
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\bin\Debug\net8.0-windows\Delivery Status Update.deps.json
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\bin\Debug\net8.0-windows\Delivery Status Update.runtimeconfig.json
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\bin\Debug\net8.0-windows\Delivery Status Update.dll
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\bin\Debug\net8.0-windows\Delivery Status Update.pdb
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\obj\Debug\net8.0-windows\Delivery_Status_Update.Form1.resources
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\obj\Debug\net8.0-windows\Delivery Status Update.csproj.GenerateResource.cache
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\obj\Debug\net8.0-windows\Delivery Status Update.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\obj\Debug\net8.0-windows\Delivery Status Update.AssemblyInfoInputs.cache
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\obj\Debug\net8.0-windows\Delivery Status Update.AssemblyInfo.cs
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\obj\Debug\net8.0-windows\Delivery Status Update.csproj.CoreCompileInputs.cache
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\obj\Debug\net8.0-windows\Delivery Status Update.dll
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\obj\Debug\net8.0-windows\refint\Delivery Status Update.dll
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\obj\Debug\net8.0-windows\Delivery Status Update.pdb
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\obj\Debug\net8.0-windows\Delivery Status Update.genruntimeconfig.cache
+C:\Users\Shannel\source\repos\Delivery Status Update\Delivery Status Update\obj\Debug\net8.0-windows\ref\Delivery Status Update.dll

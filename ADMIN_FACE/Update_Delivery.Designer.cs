@@ -1,0 +1,218 @@
+﻿namespace WinFormsApp1
+{
+    partial class Update_Delivery
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            panel1 = new Panel();
+            label1 = new Label();
+            panel2 = new Panel();
+            label2 = new Label();
+            label3 = new Label();
+            label4 = new Label();
+            label5 = new Label();
+            button1 = new Button();
+            button2 = new Button();
+            button3 = new Button();
+            label6 = new Label();
+            button4 = new Button();
+            panel1.SuspendLayout();
+            panel2.SuspendLayout();
+            SuspendLayout();
+            // 
+            // panel1
+            // 
+            panel1.BackColor = SystemColors.HotTrack;
+            panel1.Controls.Add(label1);
+            panel1.Location = new Point(1, 0);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(475, 44);
+            panel1.TabIndex = 0;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.BackColor = SystemColors.HotTrack;
+            label1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.ForeColor = Color.White;
+            label1.Location = new Point(0, 9);
+            label1.Name = "label1";
+            label1.Size = new Size(135, 21);
+            label1.TabIndex = 0;
+            label1.Text = "Update Delivery";
+            // 
+            // panel2
+            // 
+            panel2.BackColor = Color.White;
+            panel2.Controls.Add(label4);
+            panel2.Controls.Add(label3);
+            panel2.Controls.Add(label2);
+            panel2.Location = new Point(28, 50);
+            panel2.Name = "panel2";
+            panel2.Size = new Size(422, 95);
+            panel2.TabIndex = 1;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.ForeColor = SystemColors.ControlDarkDark;
+            label2.Location = new Point(3, 16);
+            label2.Name = "label2";
+            label2.Size = new Size(133, 15);
+            label2.TabIndex = 0;
+            label2.Text = "Order details(read-only)";
+            label2.Click += label2_Click;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label3.Location = new Point(5, 31);
+            label3.Name = "label3";
+            label3.Size = new Size(74, 17);
+            label3.TabIndex = 1;
+            label3.Text = "Maria Cruz";
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(5, 48);
+            label4.Name = "label4";
+            label4.Size = new Size(127, 30);
+            label4.TabIndex = 2;
+            label4.Text = "Purok 3, Brgy. San Jose\r\n2 gallons";
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label5.ForeColor = SystemColors.ControlText;
+            label5.Location = new Point(28, 157);
+            label5.Name = "label5";
+            label5.Size = new Size(46, 17);
+            label5.TabIndex = 2;
+            label5.Text = "Status";
+            label5.Click += label5_Click;
+            // 
+            // button1
+            // 
+            button1.BackColor = SystemColors.Highlight;
+            button1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button1.ForeColor = Color.White;
+            button1.Location = new Point(28, 177);
+            button1.Name = "button1";
+            button1.Size = new Size(422, 41);
+            button1.TabIndex = 3;
+            button1.Text = "Out for Delivery";
+            button1.UseVisualStyleBackColor = false;
+            // 
+            // button2
+            // 
+            button2.BackColor = Color.ForestGreen;
+            button2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button2.ForeColor = Color.White;
+            button2.Location = new Point(28, 224);
+            button2.Name = "button2";
+            button2.Size = new Size(422, 43);
+            button2.TabIndex = 4;
+            button2.Text = "Delivered";
+            button2.UseVisualStyleBackColor = false;
+            // 
+            // button3
+            // 
+            button3.BackColor = Color.Firebrick;
+            button3.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button3.ForeColor = Color.White;
+            button3.Location = new Point(28, 273);
+            button3.Name = "button3";
+            button3.Size = new Size(425, 43);
+            button3.TabIndex = 5;
+            button3.Text = "Delivery failed";
+            button3.UseVisualStyleBackColor = false;
+            // 
+            // label6
+            // 
+            label6.AutoSize = true;
+            label6.ForeColor = SystemColors.ControlDarkDark;
+            label6.Location = new Point(99, 319);
+            label6.Name = "label6";
+            label6.Size = new Size(262, 30);
+            label6.TabIndex = 6;
+            label6.Text = "Timestamp auto-recorded: July 25, 2026, ;40 PM \r\n              (system-generated, not editable)";
+            // 
+            // button4
+            // 
+            button4.BackColor = SystemColors.GrayText;
+            button4.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button4.ForeColor = Color.Transparent;
+            button4.Location = new Point(28, 362);
+            button4.Name = "button4";
+            button4.Size = new Size(425, 42);
+            button4.TabIndex = 7;
+            button4.Text = "Submit update";
+            button4.UseVisualStyleBackColor = false;
+            // 
+            // Form3
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.GradientInactiveCaption;
+            ClientSize = new Size(477, 432);
+            Controls.Add(button4);
+            Controls.Add(label6);
+            Controls.Add(button3);
+            Controls.Add(button2);
+            Controls.Add(button1);
+            Controls.Add(label5);
+            Controls.Add(panel2);
+            Controls.Add(panel1);
+            Name = "Form3";
+            Text = "Form3";
+            panel1.ResumeLayout(false);
+            panel1.PerformLayout();
+            panel2.ResumeLayout(false);
+            panel2.PerformLayout();
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private Panel panel1;
+        private Label label1;
+        private Panel panel2;
+        private Label label4;
+        private Label label3;
+        private Label label2;
+        private Label label5;
+        private Button button1;
+        private Button button2;
+        private Button button3;
+        private Label label6;
+        private Button button4;
+    }
+}
