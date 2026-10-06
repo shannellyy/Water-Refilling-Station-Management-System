@@ -1,0 +1,16 @@
+C:\Users\Shannel\source\repos\dashboard\dashboard\bin\Debug\net8.0-windows\dashboard.exe
+C:\Users\Shannel\source\repos\dashboard\dashboard\bin\Debug\net8.0-windows\dashboard.deps.json
+C:\Users\Shannel\source\repos\dashboard\dashboard\bin\Debug\net8.0-windows\dashboard.runtimeconfig.json
+C:\Users\Shannel\source\repos\dashboard\dashboard\bin\Debug\net8.0-windows\dashboard.dll
+C:\Users\Shannel\source\repos\dashboard\dashboard\bin\Debug\net8.0-windows\dashboard.pdb
+C:\Users\Shannel\source\repos\dashboard\dashboard\obj\Debug\net8.0-windows\dashboard.Form1.resources
+C:\Users\Shannel\source\repos\dashboard\dashboard\obj\Debug\net8.0-windows\dashboard.csproj.GenerateResource.cache
+C:\Users\Shannel\source\repos\dashboard\dashboard\obj\Debug\net8.0-windows\dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shannel\source\repos\dashboard\dashboard\obj\Debug\net8.0-windows\dashboard.AssemblyInfoInputs.cache
+C:\Users\Shannel\source\repos\dashboard\dashboard\obj\Debug\net8.0-windows\dashboard.AssemblyInfo.cs
+C:\Users\Shannel\source\repos\dashboard\dashboard\obj\Debug\net8.0-windows\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Shannel\source\repos\dashboard\dashboard\obj\Debug\net8.0-windows\dashboard.dll
+C:\Users\Shannel\source\repos\dashboard\dashboard\obj\Debug\net8.0-windows\refint\dashboard.dll
+C:\Users\Shannel\source\repos\dashboard\dashboard\obj\Debug\net8.0-windows\dashboard.pdb
+C:\Users\Shannel\source\repos\dashboard\dashboard\obj\Debug\net8.0-windows\dashboard.genruntimeconfig.cache
+C:\Users\Shannel\source\repos\dashboard\dashboard\obj\Debug\net8.0-windows\ref\dashboard.dll

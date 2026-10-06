@@ -1,0 +1,16 @@
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\bin\Debug\net8.0-windows\Search Filter All Orders.exe
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\bin\Debug\net8.0-windows\Search Filter All Orders.deps.json
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\bin\Debug\net8.0-windows\Search Filter All Orders.runtimeconfig.json
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\bin\Debug\net8.0-windows\Search Filter All Orders.dll
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\bin\Debug\net8.0-windows\Search Filter All Orders.pdb
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\obj\Debug\net8.0-windows\Search_Filter_All_Orders.Form1.resources
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\obj\Debug\net8.0-windows\Search Filter All Orders.csproj.GenerateResource.cache
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\obj\Debug\net8.0-windows\Search Filter All Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\obj\Debug\net8.0-windows\Search Filter All Orders.AssemblyInfoInputs.cache
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\obj\Debug\net8.0-windows\Search Filter All Orders.AssemblyInfo.cs
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\obj\Debug\net8.0-windows\Search Filter All Orders.csproj.CoreCompileInputs.cache
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\obj\Debug\net8.0-windows\Search Filter All Orders.dll
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\obj\Debug\net8.0-windows\refint\Search Filter All Orders.dll
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\obj\Debug\net8.0-windows\Search Filter All Orders.pdb
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\obj\Debug\net8.0-windows\Search Filter All Orders.genruntimeconfig.cache
+C:\Users\Shannel\source\repos\Search Filter All Orders\Search Filter All Orders\obj\Debug\net8.0-windows\ref\Search Filter All Orders.dll
